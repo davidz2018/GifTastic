@@ -1,0 +1,14 @@
+body {
+    background-color: lightgray; 
+}
+
+button {
+    background-color: rgb(8, 30, 224);
+    color: ivory;
+    border-radius: 15px;
+}
+
+.form-group{
+    float: right;
+   
+}
